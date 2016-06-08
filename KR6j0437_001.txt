@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:30.022025
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:09
 #+TITLE: 降三世忿怒明王念誦儀軌
 #+PROPERTY: CBETA_ID T21n1210
 #+PROPERTY: ID KR6j0437
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1210
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0437_T_000-0041a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0437_T_001-0041a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1210¶
-
- 降三世忿怒明王念誦儀軌¶
+No. 1210¶
+降三世忿怒明王念誦儀軌¶
 ¶
 特進試鴻臚鄉大興¶
 善寺三藏沙門大廣智¶
@@ -105,6 +104,5 @@ No.1210¶
 等。皆大降伏。而信受歸依佛道。各作將護¶
 者行者。¶
 
-次解結界。禮佛出堂場。任意讀般若等¶
-之經。¶
+次解結界。禮佛出堂場。任意讀般若等之經。¶
 降三世忿怒明王念誦儀軌
