@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:30.022025
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:09
 #+TITLE: 降三世忿怒明王念誦儀軌
 #+PROPERTY: CBETA_ID T21n1210
 #+PROPERTY: ID KR6j0437
